@@ -1,0 +1,20 @@
+{
+	"name": "Man #0007",
+	"symbol": "MAN",
+	"description": "Collection of 10 men on the blockchain. This is the number 7/10.",
+	"image": "6.jpg",
+	"attributes": [
+		{
+			"trait_type": "Number",
+			"value": "6"
+		}
+	],
+	"properties": {
+		"files": [
+			{
+				"uri": "6.jpg",
+				"type": "image/jpeg"
+			}
+		]
+	}
+}

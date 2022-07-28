@@ -1,0 +1,16 @@
+{
+    "name": "Man Collection",
+    "symbol": "MAN",
+    "description": "Collection of 10 men on the blockchain.",
+    "image": "collection.jpg",
+    "website": "https://google.com",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
