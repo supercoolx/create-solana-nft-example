@@ -4,6 +4,11 @@
 
 ![preview](./readme/preview.png "Minted NFT on Wallet")
 
+## Donation 😁😁😁
+```
+2Uz4LPmj8JJQgMSUwK6RT2ZzcQRrJh2mbYF3iiZfedre
+```
+
 ## Install Sugar CLI
 
 1. Download the Winstaller executable from [here](https://github.com/metaplex-foundation/winstaller/releases/latest/download/winstaller.exe).
